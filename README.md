@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast foc
 
 ## About Me
 - 🔭 I'm always working on new projects and exploring emerging technologies.
-- 🌱 Currently learning **Cisco CCNA Networking**, **FNB (Financial & Business Fundamentals)**, and **I.T Varsity Web App Development**.
+- 🌱 Currently learning **Cisco CCNA Networking**, **FNB (First National Bank)**, and **I.T Varsity Web App Development**.
 - 👯 I'm looking to collaborate on innovative projects across any domain.
-- 🤔 **Open to mentoring** in Python, Django, web development, and career guidance.
+- 🤔 **Open to being mentored** in Python, Django, web development, and career guidance.
 - 💬 Ask me about my career journey and tech interests.
 - 📫 How to reach me: **gus_88i@outlook.com** | **gustav.kiewiets@hotmail.com**
 - ⚡ Fun fact: 🐕 Dog lover | 💪 Fitness enthusiast | 🎵 Lofi music addict
