@@ -1,6 +1,3 @@
-# About-Me
-My About Me Profile
-
 # Hi there, I'm Gustav V. Kiewiets 👋
 
 Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast focused on building scalable applications and continuously expanding my skillset in cloud infrastructure, networking, and web development.
