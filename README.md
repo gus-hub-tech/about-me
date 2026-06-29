@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast foc
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gus-hub-tech&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gus-hub-tech&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=gus-hub-tech&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gus-hub-tech&layout=compact&theme=radical)
 
