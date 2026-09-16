@@ -50,10 +50,11 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast foc
 
 ## 📊 GitHub Stats
 
-[![GitHub repo stars](https://img.shields.io/github/stars/gus-hub-tech/about-me?style=for-the-badge&logo=github)](https://github.com/gus-hub-tech/about-me/stargazers)
-[![GitHub followers](https://img.shields.io/github/followers/gus-hub-tech?style=for-the-badge&logo=github)](https://github.com/gus-hub-tech)
-[![Repo size](https://img.shields.io/github/repo-size/gus-hub-tech/about-me?style=for-the-badge)](https://github.com/gus-hub-tech/about-me)
-[![Profile views](https://komarev.com/ghpvc/?username=gus-hub-tech&color=blueviolet)](https://github.com/gus-hub-tech)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gus-hub-tech&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gus-hub-tech&layout=compact&theme=radical&cache_seconds=1800)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gus-hub-tech&theme=radical)](https://git.io/streak-stats)
 
 ---
 
