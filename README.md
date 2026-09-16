@@ -50,9 +50,9 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast foc
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gus-hub-tech&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gus-hub-tech&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gus-hub-tech&layout=compact&theme=radical&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gus-hub-tech&layout=compact&theme=radical&cache_seconds=1800)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gus-hub-tech&theme=radical)](https://git.io/streak-stats)
 
@@ -61,7 +61,7 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast foc
 ## 🌟 Featured Projects
 
 ### [Python Backend with FNB](https://github.com/gus-hub-tech/python-backend-with-fnb)
-A robust server data management application built using **Django** and styled with **Bootstrap**. Features a clean REST API architecture with comprehensive database management capabilities for financial and business operations.
+A robust server data management application built using **Django** and styled with **Bootstrap**. Features a clean REST API architecture with comprehensive database management capabilities for financial operations.
 
 - 🎯 **Problem Solved:** Streamlined data management for FNB operations
 - 🛠️ **Tech Stack:** Python, Django, Bootstrap, PostgreSQL
